@@ -1,4 +1,4 @@
-//http://tddbin.com/#?kata=es6/language/set/basics
+//FIRST TASK   http://tddbin.com/#?kata=es6/language/set/basics
 
 // 47: Set - basics
 // To do: make all tests pass, leave the assert lines unchanged!
@@ -38,7 +38,7 @@ describe('`Set` lets you store unique values of any type', function(){
 });
 
 
-//http://tddbin.com/#?kata=es6/language/set/add
+//SECOND TASK  http://tddbin.com/#?kata=es6/language/set/add
 
 // 48: Set - add
 // To do: make all tests pass, leave the assert lines unchanged!
@@ -71,7 +71,7 @@ describe('`add()` appends a new element to the end of a Set object.', function()
 });
 
 
-//http://tddbin.com/#?kata=es6/language/set/delete
+//THIRD TASK   http://tddbin.com/#?kata=es6/language/set/delete
 
 // 64: Set - delete
 // To do: make all tests pass, leave the assert lines unchanged!
@@ -120,7 +120,7 @@ describe('`set.delete()` deletes an element from a set', function(){
   });
 });
 
-//http://tddbin.com/#?kata=es6/language/set/api
+//FOURTH TASK  http://tddbin.com/#?kata=es6/language/set/api
 
 // 65: Set - API overview
 // To do: make all tests pass, leave the assert lines unchanged!
@@ -186,7 +186,7 @@ describe('`Set` API overview', function(){
   });
 });
 
-//http://tddbin.com/#?kata=es6/language/set/clear
+//FIFTH TASK  http://tddbin.com/#?kata=es6/language/set/clear
 
 // 70: Set - clear
 // To do: make all tests pass, leave the assert lines unchanged!
